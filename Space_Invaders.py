@@ -109,5 +109,4 @@ while runGame:
     #Window update - Display must be updating
     pygame.display.update()
 
-#Small change...
 
