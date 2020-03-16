@@ -108,3 +108,6 @@ while runGame:
     invader(invader_x, invader_y, 7)
     #Window update - Display must be updating
     pygame.display.update()
+
+#Small change...
+
